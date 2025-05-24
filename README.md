@@ -38,7 +38,6 @@ The main objective is to leverage pre-trained deep learning models to detect bra
 Brain-Tumor-Detection/
 ├── app.py                              # Streamlit web app
 ├── Brain_Tumor_Detection_VGG16.ipynb   # Model training & analysis notebook
-├── Dataset/                            # Contains MRI images
 ├── requirements.txt                    # List of dependencies
 ├── README.md                           # Project overview and instructions
 ```
