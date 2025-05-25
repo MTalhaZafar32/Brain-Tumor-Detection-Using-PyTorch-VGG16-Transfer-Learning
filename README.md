@@ -24,7 +24,7 @@ The main objective is to leverage pre-trained deep learning models to detect bra
 
 4. **🌐 Streamlit Web App**
    Users can upload MRI images and receive instant predictions.
-   ➤ **Live App**: [Brain Tumor Detection App](https://brain-tumor-detection-system.streamlit.app/)
+   ➤ **Live App**: [Brain Tumor Detection App](https://brain-tumor-detection-system-using-pytorch.streamlit.app/)
 
 5. **📦 Model Hosting on Hugging Face**
    The trained model is uploaded to Hugging Face for sharing and reuse.
