@@ -8,7 +8,7 @@ The main objective is to leverage pre-trained deep learning models to detect bra
 
 1. **📁 Dataset & Preprocessing**
    The dataset includes labeled brain MRI images. Each image is resized, normalized, and augmented for training.
-   ➤ Dataset Source: [Brain MRI Images for Brain Tumor Detection (Kaggle)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+   ➤ Dataset Source: [Brain MRI Images for Brain Tumor Detection (Kaggle)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 2. **🔍 Model Architecture**
 
@@ -80,7 +80,7 @@ streamlit run app.py
 ## 📂 Data Files
 
 * **Dataset**: Brain MRI images categorized into `yes` (tumor) and `no` (normal) folders
-  ➤ [Download from Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+  ➤ [Download from Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 * **Trained Model**:
   ➤ [View on Hugging Face](https://huggingface.co/your-username/brain-tumor-detection-model)
